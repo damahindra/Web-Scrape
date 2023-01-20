@@ -1,2 +1,2 @@
 # Welcome to my Web-Scraping-Projects!
-This repo is inspired by Alex The Analyst's web scraping project on Youtube. I did these projects for education purposes only, so I will not scrape private data and informations
+This repo is inspired by Alex The Analyst's web scraping project on Youtube. I did these projects for education purposes only, so if you think the data I scrape is private or sensitive let me know!
